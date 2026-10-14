@@ -7,6 +7,7 @@
 ●	Merge the "State" and "City" columns to create a new column named "Location" in the format ‘City, State’ : **we can able to change this using the merge option in Power query** 
 ●	Create a new custom column named "Profit Margin" as the percentage of "Profit" divided by "Amount".  : **Add column > Custom column Name = Profit / amount then changed data type to %**
 ●	Add a new conditional column named "Profit Status" based on the values in the "Profit" column. The conditions are as follows: if the profit is less than 0, the label should be "Loss"; if the profit equals 0, the label should be "Break-Even"; and if the profit is greater than 0, the label should be "Profit":
+
 ==========================================================================
 ## Merging Data (Joins): 
 
