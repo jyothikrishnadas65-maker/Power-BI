@@ -19,7 +19,9 @@
 ## Merging Data (Joins): 
 
 ●	Merge the "List of Orders" and "Order Details" tables into a new single table named "Orders Data" based on the "Order ID" relationship : **Top menu : Home > Merge Queries > Merge queries as New**
+
 ==========================================================================
+
 ## Handling Missing Data & Duplicate Data: 
 
 ●	Identify missing values in the data and determine a strategy to address them: **I checked all the columns in power query. The column quality shows as 100% and error 0% if there is any null value that will be replaced based on the criteria**
